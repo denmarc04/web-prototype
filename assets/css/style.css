@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.header-wrapper {
+  width: 100%;
+  background-color: #333;
+  height: 50px;
+  display: flex;
+}
+.header {
+  width: 1000px;
+  margin: auto;
+}
+.header span {
+  color: #fff;
+}
+.container{
+  width: 400px;
+  margin: auto;
+  text-align: center;
+}
+h1{
+  text-align:center;
+}
+.button-group {
+  width: 250px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+.button-group button {
+ border-radius: 5px;
+}
+
+.content{
+  width: 1000px;
+  margin:auto;
+}
+.box{
+  width: 200px;
+  padding:5px;
+}
+
+.intro{
+  width: 200px;
+  text-align: justify;
+  font-size: small;
+}
+.firstt{
+  height: 25px;
+  background-color: rgb(34, 122, 236);
+  color: white;
+  margin-right: 5px;
+}
+.second{
+  height: 25px;
+  background-color: rgb(93, 89, 89);
+  color: white;
+}
+.view{
+  width: 50px;
+  height: 22px;
+}
